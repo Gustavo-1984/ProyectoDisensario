@@ -1,0 +1,4 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "ESP32\\RF_ID_ONE\\RF_ID_ONE.ino"
+}
